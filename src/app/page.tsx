@@ -1,4 +1,5 @@
+import Gallery from "./components/Gallery"
 
 export default function Home() {
-  return <h1>Wassup?</h1>;
+  return <Gallery />;
 }
